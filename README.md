@@ -47,3 +47,8 @@ Este código implementa un Ciclo Básico de instrucción utilizando JavaScript. 
 - Asegúrate de que el archivo externo de instrucciones contenga las instrucciones en el formato correcto y siga las reglas de sintaxis establecidas en el código principal.
 
 - Si deseas realizar modificaciones en las instrucciones o agregar nuevas funcionalidades, puedes editar el archivo principal según tus necesidades.
+
+**Creadores**
+-Juan Miguel Rojas
+-Jean Heyller Palomino
+-Christian Daniel Villegas
